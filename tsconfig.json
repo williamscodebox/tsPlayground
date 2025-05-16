@@ -113,4 +113,7 @@
   // "files": [
   //   "index.ts"
   // ],                                                   /* Used to Specify an array of filenames to be compiled. */
+  // "include": [
+  //   "./src/**/*.ts"
+  // ],                                                   /* Specify an array of filenames or patterns to be included in the program. */
 }
