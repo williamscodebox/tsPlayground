@@ -116,4 +116,12 @@
   // "include": [
   //   "./src/**/*.ts"
   // ],                                                   /* Specify an array of filenames or patterns to be included in the program. */
+  // "exclude": [
+  //   "./node_modules",
+  //   "./dist",
+  //   "./coverage",
+  //   "./build",
+  //   "./out",
+  //   "./lib"
+  // ]                                                       /* Specify an array of filenames or patterns to be excluded from the program. */
 }
